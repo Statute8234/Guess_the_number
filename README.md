@@ -9,11 +9,11 @@ The Java program is a number guessing game where the player guesses a random num
 - [Imports](#Imports)
 - [Ratting: 6/10](#Ratting)
 
-## About
+# About
 
 The Java program is a number guessing game where the player guesses a random number between 0 and an upper limit. It starts with a fixed point range and generates a random number within it. If the guess is incorrect, the player is informed and points are deducted for each incorrect guess. The upper limit for the random number is adjusted based on the player's current points. The game continues until the player runs out of points.
 
-## Imports
+# Imports
 
 Random, Scanner
 
