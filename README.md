@@ -7,7 +7,7 @@ The Java program is a number guessing game where the player guesses a random num
 - [About](#about)
 - [Features](#features)
 - [Imports](#Imports)
-- [Rating: 6/10](#Rating)
+- [Ratting: 6/10](#Ratting)
 
 ## About
 
@@ -17,6 +17,6 @@ The Java program is a number guessing game where the player guesses a random num
 
 Random, Scanner
 
-# Rating
+# Ratting
 
 The game is simple and straightforward, providing player feedback after each guess. It allows players to continue until points are run out. However, it lacks error handling for non-integer inputs, has limited interaction, and could benefit from more features or enhancements.
